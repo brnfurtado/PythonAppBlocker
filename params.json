@@ -10,5 +10,6 @@
         6
     ],
     "start_block_hour": 6,
-    "end_block_hour": 20
+    "end_block_hour": 20,
+    "timezone": "America/Sao_Paulo"
 }
